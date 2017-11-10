@@ -3,27 +3,12 @@ html {
 	padding: 0;
 	}
 body { 
-	font: 75% georgia, sans-serif;
+	font: 85% georgia, sans-serif;
 	line-height: 1.88889;
-	color: #3e4438; 
+    color: #81966d; 
+    background: rgb(18, 18, 29);
 	margin: 0; 
 	padding: 0;
 	}
 p { 
-	margin-top: 0; 
-	text-align: justify;
-	}html {
-	margin: 0;
-	padding: 0;
-	}
-body { 
-	font: 75% georgia, sans-serif;
-	line-height: 1.88889;
-	color: #848b7c; 
-	margin: 0; 
-	padding: 0;
-	}
-p { 
-	margin-top: 0; 
-	text-align: justify;
-	}
+	margin-top: 0; }
